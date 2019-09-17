@@ -9,7 +9,7 @@ Für Slides und Code Beispiele, siehe [Lektion 0](../../../fhnw-syspr/blob/maste
 Die einzelnen Schritte sind in den Slides.
 * Raspberry Pi Setup via USB zum eigenen Computer.
 * Oder Setup einer Linux VM auf eigenem Computer.
-"* "Hello World" in C auf Raspberry Pi speichern.
+* "Hello World" in C auf Raspberry Pi speichern.
 * Den C Source Code mit gcc kompilieren.<pre>
     $ gcc -o hello hello.c
     $ ./hello</pre>
