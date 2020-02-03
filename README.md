@@ -61,4 +61,4 @@ Auf Ihrem Computer
     $ ssh pi@raspberrypi.local</pre>
 
 ## Support
-- [FHNW Syspr Slack](https://fhnw-syspr.slack.com/)
+- [FHNW Syspr FS20 Slack](https://fhnw-syspr-fs20.slack.com/)
