@@ -37,12 +37,12 @@ Auf Ihrem Computer
 http://github.com/fhnw-syspr-CLASS/fhnw-syspr-work-00-USER_NAME</pre>
 
 Auf dem Raspberry Pi bzw. VM
-* Repository klonen<pre>
+* Repository mit *clone* klonen<pre>
     $ cd ~
     $ git clone REPO_URL</pre>
-* Neue Datei kreieren<pre>
+* Neue Datei mit *add* einfügen<pre>
     $ git add FILE</pre>
-* Änderungen *commit* speichern<pre>
+* Änderungen mit *commit* speichern<pre>
     $ git commit FILE -m "Fixed all bugs"</pre>
 * Änderungen mit *push* hochladen<pre>
     $ git push</pre>
