@@ -56,6 +56,6 @@ Auf dem Raspberry Pi bzw. VM
 
 ### SSH
 Auf Ihrem Computer
-* Terminal öffnen (Mac) oder `WINDOWS` `R` cmd `RETURN` (Windows)
+* Terminal öffnen (Mac) oder `WINDOWS` `R` *cmd* `RETURN` (Windows)
 * SSH Session starten mit<pre>
     $ ssh pi@raspberrypi.local</pre>
