@@ -46,7 +46,7 @@ Auf dem Raspberry Pi bzw. VM
     $ git commit FILE -m "Fixed all bugs"</pre>
 * Änderungen mit *push* hochladen<pre>
     $ git push</pre>
-(Hinweis: Der Dozent sieht nun den aktuellen Stand des Repositories.)
+* Resultat: aktueller Stand Ihrer Arbeit ist auf GitHub.
 
 ### Nano
 Auf dem Raspberry Pi bzw. VM
