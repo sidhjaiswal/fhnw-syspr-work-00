@@ -42,9 +42,9 @@ Auf dem Raspberry Pi bzw. VM
     $ git clone REPO_URL</pre>
 * Neue Datei kreieren<pre>
     $ git add FILE</pre>
-* Änderungen committen<pre>
+* Änderungen *commit* speichern<pre>
     $ git commit FILE -m "Fixed all bugs"</pre>
-* Änderungen hochladen<pre>
+* Änderungen mit *push* hochladen<pre>
     $ git push</pre>
 (Hinweis: Der Dozent sieht nun den aktuellen Stand des Repositories.)
 
