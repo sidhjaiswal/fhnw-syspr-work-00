@@ -36,7 +36,7 @@ Auf Ihrem Computer
 * Sobald Sie das eben geöffnete "Assessment" annehmen, sehen Sie Ihre persönliche, private _REPO_URL_:<pre>
 http://github.com/fhnw-syspr-CLASS/fhnw-syspr-work-00-USER_NAME</pre>
 
-Auf dem Raspberry Pi
+Auf dem Raspberry Pi bzw. VM
 * Repository klonen<pre>
     $ cd ~
     $ git clone REPO_URL</pre>
@@ -49,7 +49,7 @@ Auf dem Raspberry Pi
 (Hinweis: Der Dozent sieht nun den aktuellen Stand des Repositories.)
 
 ### Nano
-Auf dem Raspberry Pi
+Auf dem Raspberry Pi bzw. VM
 * Neue oder bestehende Datei öffnen mit $ nano FILE
 * Editieren (Achtung, nano hat kein Undo)
 * Speichern mit `CRTL-X` `Y` `RETURN`
@@ -59,6 +59,3 @@ Auf Ihrem Computer
 * Terminal öffnen (Mac) oder `WINDOWS` `R` cmd `RETURN` (Windows)
 * SSH Session starten mit<pre>
     $ ssh pi@raspberrypi.local</pre>
-
-## Support
-- [FHNW Syspr FS20 Slack](https://fhnw-syspr-fs20.slack.com/)
