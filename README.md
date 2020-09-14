@@ -4,7 +4,6 @@ Für Slides und Code Beispiele, siehe [Lektion 0](../../../fhnw-syspr/blob/maste
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
-
 ### a) Setup, 30'
 Die einzelnen Schritte sind in den Slides.
 * Raspberry Pi Setup via USB zum eigenen Computer.
@@ -25,9 +24,8 @@ Die einzelnen Schritte sind in den Slides.
 
 ### Abgabe
 * Lokale Änderungen [committen und pushen](#git).
-* Review? GitHub [Issue erstellen](../../issues/new), "@tamberg" erwähnen.
-* Offene Fragen ausformulieren, was geht nicht, was haben Sie versucht.
-* GitHub mailt mir (@tamberg) automatisch, ich versuche in weniger als 24h zu antworten.
+* Review? GitHub [Issue erstellen](../../issues/new), *@tamberg* erwähnen.
+* Fragen ausformulieren. Was geht nicht? Was haben Sie versucht?
 
 ## Tools
 ### Git
