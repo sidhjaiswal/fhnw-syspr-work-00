@@ -23,6 +23,6 @@ Die einzelnen Schritte sind in den Slides.
 * File hello.c in Hands-on Repo committen, pushen.
 
 ### Abgabe
-* Lokale Änderungen [committen und pushen](#git).
+* Lokale Änderungen committen und pushen.
 * Review? GitHub [Issue erstellen](../../issues/new), *@tamberg* erwähnen.
 * Fragen ausformulieren. Was geht nicht? Was haben Sie versucht?
